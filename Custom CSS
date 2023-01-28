@@ -1,6 +1,6 @@
 .Voice_voiceState__OCoZh > .Voice_avatar__htiqH:not([src*="<Insert Discord ID>"]) { display: none; }
 
-.Voice_avatar__htiqH{
+.Voice_avatar__htiqH {
 content:url(<Insert Non-Speaking Image URL>);
 height:auto !important;
 width:auto !important;
